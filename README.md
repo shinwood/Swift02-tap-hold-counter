@@ -17,15 +17,15 @@
 
 ## 更多阅读：
 
-- Swift Selector
+### Swift Selector
 
-http://swifter.tips/selector/
+- http://swifter.tips/selector/
 
-- NSTimer
+### NSTimer
 
-http://stackoverflow.com/questions/24007518/how-can-i-use-nstimer-in-swift
+- http://stackoverflow.com/questions/24007518/how-can-i-use-nstimer-in-swift
 
-https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Classes/NSTimer_Class/
+- https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Classes/NSTimer_Class/
 
 
 
